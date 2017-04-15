@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [JavaScript基础](javascriptji-chu.md)
+* [HTML](javascriptji-chu.md)
 
