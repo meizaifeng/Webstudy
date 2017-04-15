@@ -1,21 +1,5 @@
 # \# JavaScript基础
 
-# 
-
-# 标签（空格分隔）： FCC JS
-
-# 
-
-# ---
-
-# \[toc\]
-
-# 
-
-# =====
-
-# 
-
 # \#\# JavaScript注释
 
 # 
@@ -36,9 +20,9 @@
 
 # \`\`\`
 
-# /\* This is a 
+# /\* This is a
 
-#    multi-line comment \*/
+# multi-line comment \*/
 
 # \`\`\`
 
